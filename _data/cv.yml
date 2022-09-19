@@ -1,4 +1,3 @@
-
 - title: Education
   type: time_table
   contents:
@@ -30,8 +29,7 @@
       year: Jan-Mar 2022
       description:
         - Section 347N (Maritime and Multi-Agent Autonomy)
-        - I  developing a method for Robust Controller synthesis for Vision-based Spacecraft guidance and control. The 
-        method was build around the use of a photo-realistic simulator (Unreal Engine), where a camera is deployed on a traking spacecraft (Ego) to observe an uncontrolled vehicle (Target) in a Low Earth Orbit (LEO). Under the supervision of Amir Rahmani
+        - I  developing a method for Robust Controller synthesis for Vision-based Spacecraft guidance and control. The method was build around the use of a photo-realistic simulator (Unreal Engine), where a camera is deployed on a traking spacecraft (Ego) to observe an uncontrolled vehicle (Target) in a Low Earth Orbit (LEO). Under the supervision of Amir Rahmani
     - title: Engineering Intern
       institution:  Umbra Cuscinetti, Inc., Everett, WA, US
       year: Jun-Sept 2017
