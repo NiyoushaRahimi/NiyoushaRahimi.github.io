@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
+description: Visit my <a href='https://scholar.google.com/citations?user=JUvNWyYAAAAJ&hl=en&oi=ao'>google scholar page for latest publications. 
 years: [2022, 2021, 2020, 2018 ]
 nav: true
 nav_order: 1
